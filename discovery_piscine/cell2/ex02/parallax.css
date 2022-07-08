@@ -1,0 +1,43 @@
+html, body{
+    height: 100vh;
+    font-family: monospace;
+    background-color:black;
+}
+
+p{
+    font-size: xx-small;
+}
+
+.parallax-content{
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://agenciacomma.com/wp-content/uploads/2021/04/busqueda-inversa-imagenes.jpg);
+    color: white;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.parallax-2{
+    background-image: url(https://protecciondatos-lopd.com/empresas/wp-content/uploads/2019/07/uso-imagenes-sin-autorizacion-01.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-size: cover;
+}
+
+.no-parallax-content{
+    height: 40vh;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}

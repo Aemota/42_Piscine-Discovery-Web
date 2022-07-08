@@ -1,0 +1,60 @@
+  *{
+    font-family: sans-serif;
+  }
+  
+  ul{
+    display: none;
+  }
+  
+  input:checked  ~ ul{
+    display: block;
+  }
+  
+  input {
+    display: none;
+  }
+  
+  label {
+    background-color: white;
+    box-sizing: border-box;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 20%;
+    height: 20%;
+    line-height: 20px;
+    font-weight: bold;
+    text-align: center;
+    user-select: none;
+  }
+  
+  /* Estilo del boton cuando se pasa el mouse por encima*/
+  label:hover{
+    background: bisque;
+  }
+  
+  /* Estilo del boton cuando el menú está expandido*/
+  input:checked ~ label {
+    background: bisque; 
+  }
+  
+  ul{
+    margin-top:0;
+    padding: 0;
+    width: 20%;
+  
+  }
+
+  li {
+    display: flex;
+    background: bisque;
+    margin: 0;
+    padding: 10px;
+    list-style: none;
+    border-bottom: 1px solid gainsboro;
+  }
+  
+  /*Estilo cuando el mouse pasa encima de cada link del menu*/
+  li:hover {
+    filter: brightness(110%);
+  }
