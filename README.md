@@ -1,5 +1,9 @@
 # 42_Piscine_Discovery_Web
 
-Piscina sobre desarrollo web que tuvo lugar en el campus 42 Málaga del 20 al 24 de junio de 2022.
+* This is a web development bootcamp that took place at the 42 Málaga campus from June 20th to 24th, 2022.
 
-Se trabajaron las bases de Shell, HTML5, CSS3 y Javascript. Además, en el proyecto final hubo que utilizar Bootstrap.
+* During the bootcamp, participants worked on the fundamentals of Shell, HTML5, CSS3, and Javascript. In the final project, participants had to use Bootstrap to create a fully functional website.
+
+* This bootcamp was designed to give participants a strong foundation in web development, with an emphasis on practical, hands-on learning. Through a series of coding challenges and projects, participants gained experience working with the essential tools and technologies used in modern web development.
+
+* Overall, the 42_Piscine_Discovery_Web was a valuable learning experience for anyone looking to start a career in web development, or simply gain a deeper understanding of the web and how it works.
