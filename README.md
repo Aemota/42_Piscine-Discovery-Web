@@ -1,4 +1,4 @@
-# 42_Piscine_Discovery_Web
+# 42 Málaga - Piscine Discovery Web
 
 * This is a web development bootcamp that took place at the 42 Málaga campus from June 20th to 24th, 2022.
 
